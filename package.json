@@ -1,0 +1,26 @@
+{
+  "name": "employee_management_servies",
+  "version": "1.0.1",
+  "description": "in this project I will create APIs with help of NOSQL databases",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naman-456/APIs_with_mongodb.git"
+  },
+  "author": "Naman Mamodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naman-456/APIs_with_mongodb/issues"
+  },
+  "homepage": "https://github.com/naman-456/APIs_with_mongodb#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1"
+  }
+}
